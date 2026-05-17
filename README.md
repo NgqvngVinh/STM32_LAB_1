@@ -13,7 +13,6 @@
 | [`ex6/`](ex6/) | Exercise 6+: 7-segment clock display (hour:minute:second) with multiplexed scan |
 | [`experiments/led_blinky/`](experiments/led_blinky/) | Sandbox: minimal LED blink on STM32F100C6Tx |
 | [`experiments/test_mach/`](experiments/test_mach/) | Sandbox: board bring-up test on STM32F103RBTx |
-| [`docs/`](docs/) | Lab manual (`Lab1_Manual.pdf`) |
 
 ## Hardware & Dependencies
 
@@ -40,6 +39,3 @@
 3. Run the simulation (▶)
 
 
-## Reports
-
-Lab manual and writeup: [`docs/Lab1_Manual.pdf`](docs/Lab1_Manual.pdf)

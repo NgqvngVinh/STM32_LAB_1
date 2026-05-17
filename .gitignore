@@ -38,6 +38,9 @@ desktop.ini
 .env.*
 !.env.example
 
+# ===== Local-only docs =====
+docs/
+
 # ===== Temp =====
 *.bak
 *.tmp
