@@ -1,0 +1,45 @@
+# ===== STM32CubeIDE / Eclipse build output =====
+Debug/
+Release/
+*.o
+*.d
+*.cyclo
+*.su
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+*.lst
+*.obj
+
+# ===== Eclipse / STM32CubeIDE per-user state =====
+.settings/
+.metadata/
+.recommenders/
+*.launch
+
+# ===== Proteus per-user state & backups =====
+*.pdsbak
+Backup Of *
+Last Loaded *
+*.workspace
+*.AZINH.*
+
+# ===== OS / IDE noise =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ===== Local secrets / env =====
+.env
+.env.*
+!.env.example
+
+# ===== Temp =====
+*.bak
+*.tmp
+*~
+*.orig
